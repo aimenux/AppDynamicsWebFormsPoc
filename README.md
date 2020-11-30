@@ -16,3 +16,5 @@ In this demo, i m instrumenting legacy webforms apps with [AppDynamics](https://
 > WebApp3 : Add appdynamics scripting into a dedicated bundle
 >> - Pros : Simple, Clean
 >> - Cons : Very configurable
+
+**`Tools`** : vs19, net framework 4.8, entity framework 6, appdynamics
