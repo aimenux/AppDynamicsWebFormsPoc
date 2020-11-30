@@ -3,7 +3,6 @@
 ```
 Instrumenting legacy webforms with AppDynamics
 ```
-# AppDynamicsWebFormsPoc 
 In this demo, i m instrumenting legacy webforms apps with [AppDynamics](https://www.appdynamics.com).
 
 > WebApp1 : Add appdynamics scripting inside head of master page
